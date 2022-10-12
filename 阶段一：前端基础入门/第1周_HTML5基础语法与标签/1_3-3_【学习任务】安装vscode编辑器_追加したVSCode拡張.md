@@ -29,3 +29,10 @@ Live Server
       1. WSL2用に`settings.json` を開いて`"liveServer.settings.AdvanceCustomBrowserCmdLine": "/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe",`を追記
 
       2. VScode 再起動
+
+HTML CSS Support_Class名入力時、候補を出力する補完機能
+  - **今回追加**_2022/10/13
+
+CSS Peek_HTML画面で適用CSSを表示・編集
+  - **今回追加**_2022/10/13
+
